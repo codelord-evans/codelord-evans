@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @codelord-evans
+- 👋 Hi, I’m Evans from Kenya .
 - 👀 I’m interested in Robotics 
 - 🌱 I’m currently learning Python Programming
 - 💞️ I’m looking to collaborate on ...
