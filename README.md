@@ -13,7 +13,7 @@ About Me
 
 Technical Skills
 
-    Languages: Python, C++, Java, JavaScript
+    Languages: Python, C, Java, JavaScript, HTML, CSS
     Machine Learning: TensorFlow, PyTorch, scikit-learn
     Robotics: ROS (Robot Operating System), Gazebo, OpenCV
     DevOps: Docker, Kubernetes, Jenkins, AWS, Azure
@@ -28,12 +28,12 @@ I have worked on various projects that showcase my skills and interests:
     Project 2: Implemented a deep learning model for image classification using TensorFlow, achieving high accuracy on a benchmark dataset.
     Project 3: Automated the deployment process of a web application using Docker containers and Kubernetes for scalability and reliability.
 
-You can find more details about these projects and others in the Projects section of my GitHub profile.
+You can find more details about these projects and others @ www.etechinc.org 
 Collaboration and Opportunities
 
 I am passionate about collaborating on innovative projects that align with my interests. If you have an exciting project related to machine learning, robotics, or DevOps, feel free to reach out to me. I am open to exploring opportunities for collaboration and learning from fellow enthusiasts.
 
-You can contact me via email at your-email@example.com or connect with me on LinkedIn.
+You can contact me via email at evans_muuo@outlook.com or connect with me on LinkedIn @Evansmuuo.
 
 Let's connect and build something amazing together!
 Open Source Contributions
@@ -45,7 +45,7 @@ Stay in Touch
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories, contribute, or reach out to me. Let's connect, share knowledge, and make an impact in the world of software engineering, machine learning, robotics, and DevOps!
 
-Visitor Count
+
 
 
 <!---
