@@ -28,12 +28,12 @@ I have worked on various projects that showcase my skills and interests:
     Project 2: Implemented a deep learning model for image classification using TensorFlow, achieving high accuracy on a benchmark dataset.
     Project 3: Automated the deployment process of a web application using Docker containers and Kubernetes for scalability and reliability.
 
-You can find more details about these projects and others @ www.etechinc.org 
+You can find more details about these projects and others @ www.muuo.codes
 Collaboration and Opportunities
 
 I am passionate about collaborating on innovative projects that align with my interests. If you have an exciting project related to machine learning, robotics, or DevOps, feel free to reach out to me. I am open to exploring opportunities for collaboration and learning from fellow enthusiasts.
 
-You can contact me via email at evans_muuo@outlook.com or connect with me on LinkedIn @Evansmuuo.
+You can contact me via email at evans@muuo.codes or connect with me on LinkedIn @Evansmuuo.
 
 Let's connect and build something amazing together!
 Open Source Contributions
