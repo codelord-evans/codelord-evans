@@ -9,7 +9,7 @@ b. `Machine Learning`
 
 c. `Data Annotation 🧠` 
 
-For enquiries or collaboration requests you can reach shoot me an email @ `evans@muuo.codes`. Let's code something amazing! 🚀👨‍💻
+For enquiries or collaboration requests you can shoot me an email @ `evans@muuo.codes`. Let's code something amazing! 🚀👨‍💻
 visit www.muuo.codes for more info about me. Cheers!
 
 
