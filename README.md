@@ -1,17 +1,39 @@
-# About Me 
-My name is Evans Muuo and I am a Passionate Software Developer and AI Enthuthiast. I have built 5+ Custom Solutions 🛠️ for companies, Collaborated with 20+ Devs 🤝  and I have 10+ Happy Clients 😃. 
+![Code Lord](./linkedin.png)
 
-**My area of expertise is in:** 
+# Hi, I'm Evans Muuo 👋
 
-a. `Software Development` 
+I'm a Software Developer and AI Enthusiast. I love building custom solutions and collaborating with fellow developers.
 
-b. `Machine Learning` 
+## 🔧 Technical Skills
 
-c. `Data Annotation 🧠` 
+* Software Development
+* Machine Learning
+* Data Annotation
 
-For enquiries or collaboration requests you can shoot me an email @ `evans@muuo.codes`. Let's code something amazing! 🚀👨‍💻
-visit www.muuo.codes for more info about me. Cheers!
+## 📫 Get in Touch
 
+Feel free to reach out to me for collaboration or just to say hi! Email: evans@muuo.codes
+
+## 🚀 Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](https://mykiota.com): Brief description of Project 1.
+- [Project 2](https://muuo.codes): Brief description of Project 2.
+
+## 🛠️ Tools
+
+- Tool 1
+- Tool 2
+- Tool 3
+
+## 🎯 GitHub Streak
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codelord-evans)
+
+## 🎬 Watch My Anime Videos
+
+Click [here](link-to-anime-video) to watch my anime videos.
 
 
 <!---

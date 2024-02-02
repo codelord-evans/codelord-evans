@@ -1,6 +1,6 @@
 const axios = require('axios');
 
-const username = 'your-username';
+const username = 'codelord-evans';
 const token = process.env.GH_TOKEN;
 
 axios.post(`https://github-readme-streak-stats.herokuapp.com/api?user=${username}&token=${token}`)
