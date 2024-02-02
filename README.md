@@ -1,4 +1,4 @@
-![Code Lord](./linkedin.png)
+![Code Lord](/images/welcome.webp)
 
 # Hi, I'm Evans Muuo 👋
 
@@ -18,14 +18,19 @@ Feel free to reach out to me for collaboration or just to say hi! Email: evans@m
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://mykiota.com): Brief description of Project 1.
-- [Project 2](https://muuo.codes): Brief description of Project 2.
+- [Project 1](https://mykiota.com): A comprehensive pension administration system designed to streamline the management of retirement benefits. This platform ensures accurate calculations, timely payments, and compliance with regulatory standards, providing a seamless experience for both employers and employees.
+- - [Project 2](https://muuo.codes): A cutting-edge platform that empowers developers to write cleaner, more efficient code. By leveraging advanced algorithms and real-time feedback, Project 2 simplifies the coding process and promotes best practices among developers.
 
 ## 🛠️ Tools
 
-- Tool 1
-- Tool 2
-- Tool 3
+- ![Python](/images/python.png)
+- ![Java](/images/java.jpeg)
+- ![C++](/images/cpp.png)
+- ![MySQL](/images/msql.png)
+- ![MongoDB](/images/mongo.jpeg)
+- ![Node.js](/images/nodejs.png)
+- ![Docker](/images/docker.png)
+- ![Git](/images/git.png)
 
 ## 🎯 GitHub Streak
 
