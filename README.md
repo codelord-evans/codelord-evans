@@ -22,7 +22,7 @@ Here are some of the projects I've worked on:
 - - [Project 2](https://muuo.codes): A cutting-edge platform that empowers developers to write cleaner, more efficient code. By leveraging advanced algorithms and real-time feedback, Project 2 simplifies the coding process and promotes best practices among developers.
 
 ## Tools 🛠️
-1. ![Git](/images/git.png), ![C++](/images/cpp.png), ![Docker](/images/docker.png), ![Python](/images/python.png), ![Node](/images/nodejs.png)
+1. ![Git](/images/git.png) ![C++](/images/cpp.png) ![Docker](/images/docker.png) ![Python](/images/python.png) ![Node](/images/nodejs.png)
 
 
 ## 🎯 GitHub Streak
