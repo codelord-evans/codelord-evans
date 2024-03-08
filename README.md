@@ -1,4 +1,17 @@
-# Hi, I'm Evans Muuo 👋
+# About Me
+My name is Evans Muuo and I am a Passionate Software Developer and AI Enthuthiast. I have built 5+ Custom Solutions 🛠️ for companies, Collaborated with 20+ Devs 🤝  and I have 10+ Happy Clients 😃.
+
+**My area of expertise is in:**
+
+a. `Software Development`
+
+b. `Machine Learning`
+
+c. `Data Annotation 🧠`
+
+For enquiries or collaboration requests you can shoot me an email @ `evans@muuo.codes`. Let's code something amazing! 🚀👨‍💻
+visit www.muuo.codes for more info about me. Cheers!
+
 
 ## 🎯 GitHub Streak
 
