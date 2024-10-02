@@ -1,6 +1,6 @@
 # Hey, I'm Muuo 👋
 
-I'm a veteran Go server-side developer with a passion for building scalable, high-performance systems. Right now, I'm working on **StylIQ**, a project that brings **virtual try-on technology** to e-commerce. My goal is to make shopping online as smooth and intuitive as possible by exploring the potential of **AI**, **Computer Vision**, and **Augmented Reality (AR)**.
+I'm a veteran Go server-side developer with a passion for building scalable, high-performance systems. Right now, I'm working on [**StylIQ**](https://github.com/StylIQ), a project that brings **virtual try-on technology** to e-commerce. My goal is to make shopping online as smooth and intuitive as possible by exploring the potential of **AI**, **Computer Vision**, and **Augmented Reality (AR)**.
 
 ### What I'm Working On
 - Building the backend infrastructure for **StylIQ** using Go.
