@@ -1,16 +1,26 @@
-# About Me
-My name is Evans Muuo and I am a Passionate Software Developer and AI Enthuthiast. I have built 5+ Custom Solutions 🛠️ for companies, Collaborated with 20+ Devs 🤝  and I have 10+ Happy Clients 😃.
+# Hey, I'm Muuo 👋
 
-**My area of expertise is in:**
+I'm a veteran Go server-side developer with a passion for building scalable, high-performance systems. Right now, I'm working on **StylIQ**, a project that brings **virtual try-on technology** to e-commerce. My goal is to make shopping online as smooth and intuitive as possible by exploring the potential of **AI**, **Computer Vision**, and **Augmented Reality (AR)**.
 
-a. `Software Development`
+### What I'm Working On
+- Building the backend infrastructure for **StylIQ** using Go.
+- Integrating AI to improve how we map clothing onto users in real-time.
+- Exploring **AR** for real-time try-on experiences.
 
-b. `Machine Learning`
+### What I Do
+- **Server-Side Development**: Specializing in Go to build scalable and efficient APIs.
+- **AI & AR**: Learning and applying **Computer Vision** and **Augmented Reality** to bring new ideas to life.
+- **#BuildingInPublic**: Sharing my progress, challenges, and solutions on social media.
 
-c. `Data Annotation 🧠`
+### Let's Connect
+- Follow my journey on [X](https://twitter.com/muuocodes) and [LinkedIn](https://www.linkedin.com/in/evansmuuo).
+- Check out my projects and contributions below!
 
-For enquiries or collaboration requests you can shoot me an email @ `evans@muuo.codes`. Let's code something amazing! 🚀👨‍💻
-visit www.muuo.codes for more info about me. Cheers!
+---
+
+*Always looking to connect with like-minded developers and innovators in AI, AR, and e-commerce.*
+
+
 
 
 ## 🎯 GitHub Streak
