@@ -49,10 +49,6 @@ I'm always looking to connect with developers, innovators, and tech enthusiasts 
 
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codelord-evans&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codelord-evans&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-<br/>
-<img src="https://github-readme-stats.vercel.app/api?username=codelord-evans&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </div>
 
 ---
