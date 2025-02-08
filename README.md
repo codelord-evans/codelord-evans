@@ -2,7 +2,15 @@
 >
 >> — Eric S. Raymond
 
+<h2 align="left">Github Stats 📈</h2>
+<br>
 
 [![codelord-evans's GitHub | Stats](https://stats.quira.sh/codelord-evans/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codelord-evans)
 
-<img width="49%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=codelord-evans"></img>
+<br>
+
+<p align="left">
+  
+<img width="39%" height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=codelord-evans"></img>
+
+</p>
