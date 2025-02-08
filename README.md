@@ -2,7 +2,7 @@
 >
 >> — Eric S. Raymond
 
-<h2 align="left">Github Stats 📈</h2>
+<h3 align="left">Github Stats 📈</h3>
 <br>
 
 [![codelord-evans's GitHub | Stats](https://stats.quira.sh/codelord-evans/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=codelord-evans)
