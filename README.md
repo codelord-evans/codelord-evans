@@ -4,7 +4,6 @@
 
 <h3 align="left">Github Stats 📈</h3>
 <br>
-
 <p align="left">
   <a href="https://quira.sh?utm_source=widgets&utm_campaign=codelord-evans">
     <img width="39%" src="https://stats.quira.sh/codelord-evans/github?theme=dark" />
